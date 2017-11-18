@@ -4,6 +4,6 @@ const Icebreaker = require("./Icebreaker.js")
 
 class Question {
   static Find(){
-
+    module.exports=Icebreaker;
   }
 }
